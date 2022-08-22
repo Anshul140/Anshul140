@@ -1,14 +1,12 @@
-### Hi there 👋
-
-[![MasterHead](https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif)](https://leetcode.com/Anshul156/)
+[![MasterHead](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)](https://leetcode.com/Anshul156/)
 
 <h1 align="center">Hi 👋, I'm Anshul Shekhar Mahato</h1>
-<h3 align="center">A passionate problem-solver & back-end enthusiast from India</h3>
+<h3 align="center">A passionate problem-solver & back-end enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/yp_aFUgHMx8AAAAC/nakanoart-nakanodrawing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul140&label=Profile%20views&color=0e75b6&style=flat" alt="anshul140" /> </p>
 
-- 🌱 I’m currently learning **Numpy, Pandas, Matplotlib**
+- 🌱 I’m currently learning **Python, Numpy, Pandas**
 
 - 💬 Ask me about **C++, Data Structures, Algorithms, Javascript**
 
