@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul140&label=Profile%20views&color=0e75b6&style=flat" alt="anshul140" /> </p>
 
-- 🌱 I’m currently learning **Python, Numpy, Pandas**
+- 🌱 I’m currently learning **CS Fundamentals - Operating System, DBMS**
 
 - 💬 Ask me about **C++, Data Structures, Algorithms, Javascript**
 
